@@ -1,0 +1,1 @@
+it is my sample package to start learning how to build npm packages
